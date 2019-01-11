@@ -1,0 +1,1 @@
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye.UWP\BaionicEye.UWP.csproj;arm

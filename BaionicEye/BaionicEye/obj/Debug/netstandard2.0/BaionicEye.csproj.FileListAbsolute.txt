@@ -1,0 +1,12 @@
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\bin\Debug\netstandard2.0\BaionicEye.deps.json
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\bin\Debug\netstandard2.0\BaionicEye.dll
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\bin\Debug\netstandard2.0\BaionicEye.pdb
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\BaionicEye.csprojAssemblyReference.cache
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\BaionicEye.csproj.CoreCompileInputs.cache
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\BaionicEye.AssemblyInfoInputs.cache
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\BaionicEye.AssemblyInfo.cs
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\BaionicEye.dll
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\BaionicEye.pdb
+C:\Users\shahar\Source\Repos\BaionicEye\BaionicEye\BaionicEye\obj\Debug\netstandard2.0\XamlC.stamp

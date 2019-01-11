@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BaionicEye"
+             x:Class="BaionicEye.MainPage"
+             >
+    <RelativeLayout Padding="0">
+        <!-- Background -->
+        <Image
+            Aspect="AspectFill"
+            Source="wood.jpg"
+            RelativeLayout.WidthConstraint= "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+            RelativeLayout.HeightConstraint= "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+        </Image>
+      
+    
+    <StackLayout >
+        <StackLayout BackgroundColor="#C5C3C3">
+           
+                <!-- Place new controls here -->
+                <Image Source="topG.png" HorizontalOptions="Center" />
+
+                <Label x:Name="MainLabel" />
+
+            </StackLayout >
+
+
+            
+
+            <Button x:Name="RecordButton" Clicked="RecordButton_Clicked" Text="Record" Image="AudioB.png"
+                BorderRadius="160" WidthRequest="320" HeightRequest="320"
+                HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+
+
+        
+    </StackLayout>
+    </RelativeLayout>
+
+</ContentPage>
